@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am currently a Final Year Btech student at Vidyalankar Institute of Technology<br>I am good at my academics and has a CGPA of 9.5<br>I was a 10th Topper at New Ideal School Vasind <br>I have successfully completed my Web Development Internship at Suvidha Foundation<br>I am currently focusing and Interested in learning DevOps , ML and Cloud Engineering
+Hi there! 👋
+
+I am a final-year B.Tech student at Vidyalankar Institute of Technology with a strong academic record and a CGPA of 9.5. I have always been passionate about technology, problem-solving, and continuously learning new tools that shape modern software development.
+
+I was the 10th-grade topper at New Ideal School, Vasind, which reflects my consistent dedication to academic excellence.
+
+I have also completed a Web Development Internship at Suvidha Foundation, where I gained practical experience in building web applications and working in a professional development environment.
+
+Currently, I am expanding my skills in DevOps, Machine Learning, and Cloud Engineering. I enjoy exploring how these technologies work together to build scalable, efficient, and intelligent systems.
+
+💡 Interests:
+- DevOps & Automation
+- Cloud Computing
+- Machine Learning
+- Full-Stack Web Development
+
+🚀 I am always eager to learn new technologies, collaborate on projects, and contribute to meaningful solutions.
 
 
 ## 🌐 Socials:
