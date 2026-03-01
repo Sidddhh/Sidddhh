@@ -1,21 +1,21 @@
 # 💫 About Me:
 Hi there! 👋
 
-I am a final-year B.Tech student at Vidyalankar Institute of Technology with a strong academic record and a CGPA of 9.5. I have always been passionate about technology, problem-solving, and continuously learning new tools that shape modern software development.
+🎓 I am a Final-Year B.Tech student at Vidyalankar Institute of Technology with a strong academic record and a CGPA of 9.5. I am passionate about technology, problem-solving, and continuously learning new tools that shape modern software development.
 
-I was the 10th-grade topper at New Ideal School, Vasind, which reflects my consistent dedication to academic excellence.
+🏆 I was the 10th-grade topper at New Ideal School, Vasind, which reflects my consistent dedication to academic excellence.
 
-I have also completed a Web Development Internship at Suvidha Foundation, where I gained practical experience in building web applications and working in a professional development environment.
+💻 I have successfully completed a Web Development Internship at Suvidha Foundation, where I gained practical experience in building web applications and working in a professional development environment.
 
-Currently, I am expanding my skills in DevOps, Machine Learning, and Cloud Engineering. I enjoy exploring how these technologies work together to build scalable, efficient, and intelligent systems.
+🚀 Currently, I am expanding my skills in DevOps ⚙️, Machine Learning 🤖, and Cloud Engineering ☁️. I enjoy exploring how these technologies work together to build scalable, efficient, and intelligent systems.
 
 💡 Interests:
-- DevOps & Automation
-- Cloud Computing
-- Machine Learning
-- Full-Stack Web Development
+- ⚙️ DevOps & Automation  
+- ☁️ Cloud Computing  
+- 🤖 Machine Learning  
+- 🌐 Full-Stack Web Development  
 
-🚀 I am always eager to learn new technologies, collaborate on projects, and contribute to meaningful solutions.
+🌱 I am always eager to learn new technologies, collaborate on projects, and contribute to meaningful solutions.
 
 
 ## 🌐 Socials:
