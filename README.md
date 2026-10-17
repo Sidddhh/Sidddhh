@@ -1,13 +1,27 @@
-# 💫 About Me:
-Hi there! 👋
+# 💫 About Me
 
-🎓 I am a Final-Year B.Tech student at Vidyalankar Institute of Technology with a strong academic record and a CGPA of 9.5. I am passionate about technology, problem-solving, and continuously learning new tools that shape modern software development.
+Hi there! 👋 I'm a technology enthusiast passionate about software development, process optimization, automation, and building impactful solutions.
 
-🏆 I was the 10th-grade topper at New Ideal School, Vasind, which reflects my consistent dedication to academic excellence.
+🎓 **Education:** B.Tech graduate (2026) from Vidyalankar Institute of Technology, with a strong academic record and a CGPA of 9.56.
 
-💻 I have successfully completed a Web Development Internship at Suvidha Foundation, where I gained practical experience in building web applications and working in a professional development environment.
+💼 **Professional Experience:**
+- 🏢 **Tata Consultancy Services (TCS):** Currently working full-time, gaining corporate experience and developing my professional and technical skills.
+- 📊 **National Stock Exchange of India (NSE):** Completed an internship in Project Management Office (PMO), gaining exposure to project coordination, reporting, documentation, and professional workflows.
+- 💻 **Suvidha Foundation:** Completed a Web Development Internship, gaining hands-on experience in building web applications.
 
-🚀 Currently, I am expanding my skills in DevOps ⚙️, Machine Learning 🤖, and Cloud Engineering ☁️. I enjoy exploring how these technologies work together to build scalable, efficient, and intelligent systems.
+🛠️ **Tech Stack:** Python, JavaScript, React, Flask, SQL, MongoDB, Git, Docker, Jenkins, and TensorFlow.
+
+🚀 **Areas of Interest:** DevOps, Cloud Engineering, Machine Learning, CI/CD automation, and software development.
+
+🤖 **Projects:** Developed projects involving machine learning, computer vision, and web application development, including Pneumonia Detection, Brain Tumor Detection, and a Gym Management System.
+
+🏆 **Academic Achievement:** Former 10th-grade topper at New Ideal School, Vasind.
+
+🌱 **Currently Focused On:** Strengthening my technical expertise, learning modern engineering practices, and exploring how automation and cloud technologies can improve real-world workflows.
+
+🤝 **Let's Connect:** Always open to collaborating on innovative projects, exploring new technologies, and connecting with like-minded professionals.
+
+✨ *Keep learning. Keep building. Keep growing.*
 
 💡 Interests:
 - ⚙️ DevOps & Automation  
