@@ -9,7 +9,7 @@ Hi there! 👋 I'm a technology enthusiast passionate about software development
 - 📊 **National Stock Exchange of India (NSE):** Completed an internship in Project Management Office (PMO), gaining exposure to project coordination, reporting, documentation, and professional workflows.
 - 💻 **Suvidha Foundation:** Completed a Web Development Internship, gaining hands-on experience in building web applications.
 
-🛠️ **Tech Stack:** Python, JavaScript, React, Flask, SQL, MongoDB, Git, Docker, Jenkins, and TensorFlow.
+🛠️ **Tech Stack:** Python, Java, JavaScript, React, Flask, SQL, MongoDB, Git, Docker, Jenkins, and TensorFlow.
 
 🚀 **Areas of Interest:** DevOps, Cloud Engineering, Machine Learning, CI/CD automation, and software development.
 
